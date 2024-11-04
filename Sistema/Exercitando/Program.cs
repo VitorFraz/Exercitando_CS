@@ -229,7 +229,7 @@ namespace Exercitando
         private static void CadInfo5()
         {
             Console.Clear();
-            Console.WriteLine("\n5º Exercicio: Escreva um programa que leia uma data (dia, mês, ano) e verifique se é uma data válida.");
+            Console.WriteLine("\n5º Exercicio: Escreva um programa que leia o número de um mês e exiba o nome do mês correspondente.");
 
             int mes;
 
