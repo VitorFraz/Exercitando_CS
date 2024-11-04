@@ -1,0 +1,7 @@
+C:\Users\vitor.fbarduco\source\repos\Sistema\Exercitando\bin\Debug\Exercitando.exe.config
+C:\Users\vitor.fbarduco\source\repos\Sistema\Exercitando\bin\Debug\Exercitando.exe
+C:\Users\vitor.fbarduco\source\repos\Sistema\Exercitando\bin\Debug\Exercitando.pdb
+C:\Users\vitor.fbarduco\source\repos\Sistema\Exercitando\obj\Debug\Exercitando.csproj.AssemblyReference.cache
+C:\Users\vitor.fbarduco\source\repos\Sistema\Exercitando\obj\Debug\Exercitando.csproj.CoreCompileInputs.cache
+C:\Users\vitor.fbarduco\source\repos\Sistema\Exercitando\obj\Debug\Exercitando.exe
+C:\Users\vitor.fbarduco\source\repos\Sistema\Exercitando\obj\Debug\Exercitando.pdb
